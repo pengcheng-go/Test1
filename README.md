@@ -1,4 +1,1 @@
-# Test1
-* hello world\
-_hello_\
-hello
+This is a test for gloorlab template.
